@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+
+#assigns GUI the desired theme
+
+#Changing to light mode - replace (base = "dark") with (base = "light"), save the file and rerun the program
+
+#Changing to dark mode - replace (base = "light") with (base = "dark"), save the file and rerun the program
